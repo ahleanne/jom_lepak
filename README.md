@@ -1,7 +1,7 @@
 # jom_lepak
 --Overview--
-A simple website built using HTML, CSS, JavaScript, PHP and MySQL. 
-Jom Lepak is a tourism system that provides users buses and car services.
+- A simple website built using HTML, CSS, JavaScript, PHP and MySQL. 
+- Jom Lepak is a tourism system that provides users buses and car services.
 
 --Functions--
 1) User
